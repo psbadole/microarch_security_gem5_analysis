@@ -1,0 +1,5 @@
+Scenario,SimTicks,IPC,SquashedInsts,L1D_Misses
+inorder_nocache,460759779,Not Found,Not Found,Not Found
+ooo_nocache,78881373,Not Found,Not Found,Not Found
+inorder_cache,29955015,Not Found,Not Found,Not Found
+ooo_cache,19514466,Not Found,Not Found,Not Found
