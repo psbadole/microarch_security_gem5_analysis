@@ -1,3 +1,5 @@
+The work is done based on existing gem5 bootcamp repository. My work is in compare.py, project_results and GEM5_RESULTS_DOC..
+
 Research Questions
 1. How much faster is an Out-of-Order (O3) CPU compared to a secure In-Order core?
 2. What is the IPC (Instructions Per Cycle) cost of implementing randomized cache indexing to thwart conflict-based attacks?
