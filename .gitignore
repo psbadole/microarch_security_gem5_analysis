@@ -27,3 +27,13 @@ x86-ubuntu-gpu-ml-isca.gz
 build/
 
 *.DS_Store
+
+build/
+*.pyc
+__pycache__/
+*.o
+*.so
+m5out/
+.vscode/
+.idea/
+*.swp
