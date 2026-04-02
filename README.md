@@ -103,18 +103,6 @@ performance penalty.
 └── exp_lat_{20-25}/            # Latency sweep
 ```
 
-## How to run
-```bash
-# Setup
-GEM5_RESOURCE_DIR=~/.cache/gem5
-
-# Example: timing CPU, full security config
-./gem5/build/X86/gem5.opt -d output_dir \
-    compare.py timing randomized 20 2
-
-# Compile the workload
-gcc -static -O2 -o workload-x86 workload.c
-```
 
 ## Reference
 
